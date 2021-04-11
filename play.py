@@ -29,8 +29,6 @@ def logo():
 |   |   |  |  |  __|   __|   |   |   |  |  |  |  __|
 |___|   |__|  |_____|_____|  |___|   |__|__|  |_____|
 
-Support This is Channel with Like,share,comment and Subscribe!
-
 %sAuthor  : %sTokicoy%s
 %sGithub  : %sNothing%s
 %sYoutube : %sAcinakongame%s
