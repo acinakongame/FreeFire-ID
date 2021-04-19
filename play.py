@@ -31,7 +31,7 @@ def logo():
 
 %sAuthor  : %sTokicoy%s
 %sGithub  : %sNothing%s
-%sYoutube : %sAcinakongame%s
+%sYoutube : %sAcinakongames
 
 %sTools Heck Use ID Free Fire"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 
